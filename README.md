@@ -1,4 +1,8 @@
-Processesing and data modeling C++ framework based on Monte-Carlo simulation and historical data.
+Processesing and data modeling C++ framework for cloud
+
+-- all stuff below is under CONSTRUCTION,, sorry - tbd soon!--
+
+--
 
 # How does it work
 
